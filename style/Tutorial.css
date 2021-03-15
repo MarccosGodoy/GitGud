@@ -1,0 +1,18 @@
+.Tutorial-main{
+    color: #ffa200;
+}
+.Tutorial-main p{
+    padding: 0 400px;
+    font-size: 15px;
+}
+
+main a{
+    background: #ff4356;
+    padding: 8px 20px;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    justify-content: center;
+    position: relative;
+    top: 4vh;
+}

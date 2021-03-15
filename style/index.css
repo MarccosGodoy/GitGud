@@ -21,10 +21,10 @@ h2 {
     margin: 0;
     margin-bottom: 60px;
   }
-  .start-buttons {
+.start-buttons {
     display: flex;
     justify-content: center;
-  }
+}
   
   .Start-main ul {
     display: flex;
@@ -71,3 +71,17 @@ footer ul{
     justify-content: center;
 }
 
+@media screen and (max-width: 800px){
+    main {
+        height: 630px;
+        width: 100%;
+    }
+    .Page-Tittle{
+        font-size: 55px;
+        margin-top: 0px;
+        padding-top: 15vh;
+    }
+    h2{
+        font-size: 20px;
+    }
+}

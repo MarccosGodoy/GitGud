@@ -16,3 +16,11 @@
     position: relative;
     top: 4vh;
 }
+
+@media screen and (max-width: 800px){
+    .Tutorial-main p{
+        padding: 0 0px;
+        font-size: 15px;
+        width: 100%;
+    }
+}

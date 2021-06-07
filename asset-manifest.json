@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/GitGud/static/css/main.cd450e92.chunk.css",
-    "main.js": "/GitGud/static/js/main.6f0863b8.chunk.js",
-    "main.js.map": "/GitGud/static/js/main.6f0863b8.chunk.js.map",
+    "main.css": "/GitGud/static/css/main.5f94cb24.chunk.css",
+    "main.js": "/GitGud/static/js/main.1d30cec1.chunk.js",
+    "main.js.map": "/GitGud/static/js/main.1d30cec1.chunk.js.map",
     "runtime-main.js": "/GitGud/static/js/runtime-main.66bb720e.js",
     "runtime-main.js.map": "/GitGud/static/js/runtime-main.66bb720e.js.map",
-    "static/js/2.0b914e4f.chunk.js": "/GitGud/static/js/2.0b914e4f.chunk.js",
-    "static/js/2.0b914e4f.chunk.js.map": "/GitGud/static/js/2.0b914e4f.chunk.js.map",
+    "static/js/2.48d09111.chunk.js": "/GitGud/static/js/2.48d09111.chunk.js",
+    "static/js/2.48d09111.chunk.js.map": "/GitGud/static/js/2.48d09111.chunk.js.map",
     "index.html": "/GitGud/index.html",
-    "static/css/main.cd450e92.chunk.css.map": "/GitGud/static/css/main.cd450e92.chunk.css.map",
-    "static/js/2.0b914e4f.chunk.js.LICENSE.txt": "/GitGud/static/js/2.0b914e4f.chunk.js.LICENSE.txt"
+    "static/css/main.5f94cb24.chunk.css.map": "/GitGud/static/css/main.5f94cb24.chunk.css.map",
+    "static/js/2.48d09111.chunk.js.LICENSE.txt": "/GitGud/static/js/2.48d09111.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.66bb720e.js",
-    "static/js/2.0b914e4f.chunk.js",
-    "static/css/main.cd450e92.chunk.css",
-    "static/js/main.6f0863b8.chunk.js"
+    "static/js/2.48d09111.chunk.js",
+    "static/css/main.5f94cb24.chunk.css",
+    "static/js/main.1d30cec1.chunk.js"
   ]
 }

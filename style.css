@@ -1,0 +1,27 @@
+body{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color:#0e1015;
+    color: white;
+    
+}
+h1{
+    padding: 0%;
+    margin: 0%;
+    color: #f11036;
+    font-size: 6em;
+}
+
+p{
+    font-size: 1.5em;
+}
+
+a{
+    color: #f11036;
+}
